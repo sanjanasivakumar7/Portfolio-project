@@ -7,3 +7,5 @@ https://ourworldindata.org/covid-deaths    -> dataset
 Nh cleaning -> nashvill housing dataset
 
 Web scraping -> Amazon 
+
+Refernces : https://github.com/AlexTheAnalyst
